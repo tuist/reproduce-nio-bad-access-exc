@@ -1,0 +1,4 @@
+module CBacktrace {
+    umbrella "/Users/pepicrft/src/github.com/tuist/reproduce-nio-bad-access-exct/Tuist/Dependencies/SwiftPackageManager/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
+    export *
+}

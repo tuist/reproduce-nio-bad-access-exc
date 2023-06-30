@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BadExcError.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Tuist"
+      name = "Tuist">
+      <Group
+         location = "group:Dependencies"
+         name = "Dependencies">
+         <Group
+            location = "group:SwiftPackageManager"
+            name = "SwiftPackageManager">
+            <Group
+               location = "group:.build"
+               name = ".build">
+               <Group
+                  location = "group:checkouts"
+                  name = "checkouts">
+                  <FileRef
+                     location = "group:swift-atomics/swift-atomics.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:swift-backtrace/swift-backtrace.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:swift-log/swift-log.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:swift-metrics/swift-metrics.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:swift-service-lifecycle/swift-service-lifecycle.xcodeproj">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>
